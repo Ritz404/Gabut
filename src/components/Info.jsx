@@ -8,7 +8,7 @@ const Info = () => {
             </div>
             <div className="flex flex-col px-2 pt-6">
                 <span className="">
-                    Selamat datang di ZeroNime. Website baca komik online yang berisi berbagai koleksi manhua, manhwa, dan manga dengan terjemahan Bahasa Indonesia berkualitas. Nikmati pengalaman membaca komik favorit kamu dengan fitur yang mudah digunakan dan tampilan yang nyaman di semua perangkat.
+                    Selamat datang di ShiroNime. Website baca komik online yang berisi berbagai koleksi manhua, manhwa, dan manga dengan terjemahan Bahasa Indonesia berkualitas. Nikmati pengalaman membaca komik favorit kamu dengan fitur yang mudah digunakan dan tampilan yang nyaman di semua perangkat.
                 </span>
                 <span className="text-lg font-semibold pt-4">Ikuti Media Sosial Kami Di Whatsapp</span>
                 <a className="flex items-center gap-1" href="https://whatsapp.com/channel/0029VaX3jOgAe5VguykGye3k" target="_blank" rel="noopener noreferrer">
